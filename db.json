@@ -1,10 +1,4 @@
 {
-    "usuarios":[
-        {
-            "Username": "Admin",
-            "Password": "123"
-        }
-    ]
     "producto":[
         {
             "Id": 1,
